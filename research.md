@@ -1,5 +1,5 @@
 layout: page
 title: "Research students"
-permalink: /students/
+permalink: /research/
 
 Current research projects
